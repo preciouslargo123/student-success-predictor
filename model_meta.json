@@ -1,0 +1,28 @@
+{
+ "model": "Extra Trees",
+ "cv_accuracy": 0.8785,
+ "test_accuracy": 0.9015,
+ "test_f1": 0.8984,
+ "unseen_accuracy": 0.7844,
+ "n_rows": 3602,
+ "importances": {
+  "Submission.Actions": 0.1462,
+  "Quiz.Actions": 0.1491,
+  "Forum.Actions": 0.1256,
+  "Create.Actions": 0.167,
+  "Read.Actions": 0.1785,
+  "Update.Actions": 0.1174,
+  "Delete.Actions": 0.0338,
+  "Days.Logged.In": 0.0824
+ },
+ "medians": {
+  "Submission.Actions": 3.0,
+  "Quiz.Actions": 0.0,
+  "Forum.Actions": 0.0,
+  "Create.Actions": 7.0,
+  "Read.Actions": 131.0,
+  "Update.Actions": 3.0,
+  "Delete.Actions": 0.0,
+  "Days.Logged.In": 14.0
+ }
+}
